@@ -62,7 +62,7 @@
                                    value="{{ $kode }}"
                                    readonly
                                    style="cursor: not-allowed;">
-                            <small class="text-muted d-block mt-2">Kode akan dibuat otomatis</small>
+                            <small class="text-muted d-block mt-2">Kode otomatis</small>
                         </div>
 
                         {{-- Pilih Pinjaman --}}
